@@ -2,8 +2,7 @@
 
 ### 💻 Desarrollador Web | Estudiante de Tecnicatura Universitaria en Programación
 
-Soy estudiante de la **Tecnicatura Universitaria en Programación en la UTN FRSR** y desarrollador web en formación.
-
+Soy estudiante de la **Tecnicatura Universitaria en Programación en la UTN FRSR** y **Desarrollador Web Junior | Estudiante de Tecnicatura Universitaria en Programación**
 Me interesa crear aplicaciones y sitios web modernos, funcionales y adaptados a las necesidades de cada proyecto. Actualmente trabajo en proyectos personales y colaborativos, desarrollando soluciones digitales para emprendimientos y pequeños negocios.
 
 También formo parte de **Solución Digital**, donde participo en el desarrollo de proyectos web y soluciones digitales.
