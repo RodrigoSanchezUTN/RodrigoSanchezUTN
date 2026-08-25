@@ -1,4 +1,4 @@
-# 👋 Hola, soy Rodrigo Sánchez
+# 👋 Hola, soy Rodrigo Sanchez
 
 ### 💻 Desarrollador Web | Estudiante de Tecnicatura Universitaria en Programación
 
@@ -140,5 +140,5 @@ Universidad Tecnológica Nacional — FRSR
 ### 🚀 Siempre aprendiendo, construyendo y mejorando.
 
 <p align="center">
-<strong>Rodrigo Sánchez</strong>
+<strong>Rodrigo Sanchez</strong>
 </p>
