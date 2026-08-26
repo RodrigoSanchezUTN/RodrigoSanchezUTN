@@ -1,24 +1,24 @@
-# 👋 Hola, soy Rodrigo Sanchez
+# 👋 Hola, soy Rodrigo Sánchez
 
-### 💻 Desarrollador Web | Estudiante de Tecnicatura Universitaria en Programación
+### 💻 Desarrollador Web Junior | 🎓 Estudiante de Tecnicatura Universitaria en Programación
 
-Soy estudiante de la **Tecnicatura Universitaria en Programación en la UTN FRSR** y **Desarrollador Web Junior | Estudiante de Tecnicatura Universitaria en Programación**.
+Soy estudiante de la **Tecnicatura Universitaria en Programación en la UTN FRSR** y desarrollador web junior en formación.
 
-Me interesa crear aplicaciones y sitios web modernos, funcionales y adaptados a las necesidades de cada proyecto. Actualmente trabajo en proyectos personales y colaborativos, desarrollando soluciones digitales para emprendimientos y pequeños negocios.
+Me interesa crear aplicaciones y sitios web modernos, funcionales y adaptados a las necesidades de cada proyecto.
 
-También formo parte de **Solución Digital**, donde participo en el desarrollo de proyectos web y soluciones digitales.
+Actualmente desarrollo proyectos **personales, académicos y comerciales**, y también formo parte de **Solución Digital**, donde participo en el desarrollo de proyectos web y soluciones digitales para emprendimientos y pequeños negocios.
 
 ---
 
 ## 🚀 Sobre mí
 
 * 🎓 Estudiante de Tecnicatura Universitaria en Programación — UTN FRSR
-* 💻 Desarrollador Web
+* 💻 Desarrollador Web Junior
+* 🌐 Interés en desarrollo Frontend y Backend
 * 🚀 Desarrollo de proyectos personales y comerciales
 * 🤝 Experiencia trabajando en proyectos colaborativos
-* 🌐 Interés en desarrollo Frontend y Backend
-* 📚 Actualmente ampliando mis conocimientos en desarrollo de software
-* 🎯 Buscando oportunidades para seguir creciendo profesionalmente como desarrollador
+* 📚 En constante aprendizaje y formación
+* 🎯 Buscando oportunidades para seguir creciendo profesionalmente en el área de desarrollo de software
 
 ---
 
@@ -51,35 +51,49 @@ También formo parte de **Solución Digital**, donde participo en el desarrollo 
 
 ## ⭐ Proyectos destacados
 
-### 📅 Turnify
+### 📅 [SistemaTurnos — Turnify](https://github.com/RodrigoSanchezUTN/SistemaTurnos)
 
-Sistema web para la **gestión de turnos y clientes**, pensado para profesionales y pequeños negocios.
+Sistema web de gestión de **turnos, clientes, servicios y horarios**.
 
-**Tecnologías:** React · Node.js · PostgreSQL
+Proyecto Full Stack desarrollado con una arquitectura separada de Frontend y Backend.
 
----
-
-### 💼 Solución Digital
-
-Proyecto orientado al desarrollo de **sitios web y soluciones digitales para emprendimientos y pequeños negocios**.
-
-Participación en el desarrollo de diferentes proyectos web y soluciones personalizadas.
+**Tecnologías:** React · Vite · Node.js · Express · Prisma · PostgreSQL · JWT
 
 ---
 
-### 🌐 Portfolio Personal
+### 💻 [Solución Digital](https://github.com/RodrigoSanchezUTN/Solucion-Digital)
 
-Mi sitio web personal donde presento mis proyectos, conocimientos y perfil profesional.
+Proyecto y emprendimiento orientado al desarrollo de **páginas web y soluciones digitales** para profesionales, emprendimientos y pequeños negocios.
+
+**Tecnologías:** HTML · CSS · JavaScript · GitHub Pages
+
+---
+
+### 🛍️ [Fundas SR](https://github.com/RodrigoSanchezUTN/Fundas.sr)
+
+Catálogo digital desarrollado para un **emprendimiento real de productos para celulares**.
+
+El proyecto busca ofrecer una presentación clara y accesible de los productos mediante una solución web.
 
 **Tecnologías:** HTML · CSS · JavaScript
 
 ---
 
-### 🛍️ Fundas SR
+### 🌐 [Portfolio Personal](https://github.com/RodrigoSanchezUTN/cv)
 
-Sitio web desarrollado para la presentación y comercialización de productos.
+Mi portfolio personal, utilizado como presentación profesional para mostrar mi perfil, conocimientos, formación y proyectos.
 
-**Tecnologías:** HTML · CSS
+**Tecnologías:** HTML · CSS · GitHub Pages
+
+---
+
+## 🎓 Formación
+
+### Universidad Tecnológica Nacional — FRSR
+
+**Tecnicatura Universitaria en Programación**
+
+Actualmente cursando la carrera y desarrollando proyectos académicos y personales para aplicar los conocimientos adquiridos.
 
 ---
 
@@ -97,15 +111,22 @@ Sitio web desarrollado para la presentación y comercialización de productos.
 
 ---
 
-## 🎓 Educación
+## 💼 Solución Digital
 
-**Tecnicatura Universitaria en Programación**
-Universidad Tecnológica Nacional — FRSR
-2026 - Actualmente
+Formo parte de **Solución Digital**, un emprendimiento enfocado en crear soluciones digitales para proyectos y negocios.
+
+Trabajamos en el desarrollo de:
+
+* 🌐 Páginas web
+* 🛍️ Catálogos digitales
+* 📅 Sistemas de gestión
+* 💌 Invitaciones digitales
+* 💼 Sitios para emprendimientos
+* 🧩 Soluciones personalizadas
 
 ---
 
-## 🌐 Conectemos
+## 🌐 Contacto
 
 <p align="left">
 
@@ -121,24 +142,22 @@ Universidad Tecnológica Nacional — FRSR
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RodrigoSanchezUTN&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSanchezUTN&layout=compact&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/RodrigoSanchezUTN" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-### 🚀 Siempre aprendiendo, construyendo y mejorando.
+## 🚀 En constante aprendizaje
+
+Actualmente sigo desarrollando proyectos personales, académicos y comerciales mientras continúo ampliando mis conocimientos en desarrollo web y software.
+
+> **Construir. Aprender. Mejorar. Repetir. 🚀**
+
+---
 
 <p align="center">
-<strong>Rodrigo Sanchez</strong>
+  <strong>Rodrigo Sánchez</strong>
 </p>
