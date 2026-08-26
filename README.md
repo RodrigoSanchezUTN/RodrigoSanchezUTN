@@ -1,4 +1,4 @@
-# 👋 Hola, soy Rodrigo Sánchez
+# 👋 Hola, soy Rodrigo Sanchez
 
 ### 💻 Desarrollador Web Junior | 🎓 Estudiante de Tecnicatura Universitaria en Programación
 
@@ -159,5 +159,5 @@ Actualmente sigo desarrollando proyectos personales, académicos y comerciales m
 ---
 
 <p align="center">
-  <strong>Rodrigo Sánchez</strong>
+  <strong>Rodrigo Sanchez</strong>
 </p>
